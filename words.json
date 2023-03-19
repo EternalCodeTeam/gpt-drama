@@ -10,12 +10,53 @@
     "Kamicjusz",
     "EMMA (To Chłopak)",
     "Mike",
+    "Crispi",
+    "CrispiDEV",
     "Krzysztof Haller",
     "Martin Sulikowski",
     "vLucky",
     "jakubk15"
   ],
   "categories": [
+    [
+      "EternalRTP przesadzona abstrakcja",
+      "EternalRTP (Plugin do minecrafta)",
+      "EternalCore (Plugin do minecrafta)",
+      "ChatFormatter",
+      "LiteCommands",
+      "LiteCommands Enterprise",
+      "LiteCommands Enterprise, Limited Edition"
+    ],
+    [
+      "GitKraken",
+      "GitHub Desktop",
+      "GitHub Repository",
+      "GitLab Repository",
+      "GitHub Pages"
+    ],
+    [
+      "Minecraft 1.8.8",
+      "Minecraft 1.12.2",
+      "Minecraft 1.14.4",
+      "Minecraft 1.15.2",
+      "Minecraft 1.16.5",
+      "Minecraft 1.19.4"
+    ],
+    [
+      "Visual Studio Code",
+      "IntelliJ IDEA",
+      "Eclipse",
+      "NetBeans",
+      "Android Studio",
+      "Visual Studio",
+      "Xcode",
+      "Atom",
+      "Sublime Text",
+      "Notepad++",
+      "PHPStorm",
+      "GoLand",
+      "Clion"
+    ],
     [
       "kupił",
       "sprzedał",
@@ -33,6 +74,12 @@
       "telewizor",
       "rower",
       "buty"
+    ],
+    [
+      "w sklepie",
+      "na allegro",
+      "na olx",
+      "na alledrogo"
     ],
     [
       "sortowanie",
@@ -69,7 +116,9 @@
       "Worm",
       "Spyware",
       "Adware",
-      "Keylogger"
+      "Keylogger",
+      "LiteCommands Wirus",
+      "Lombok"
     ],
     [
       "zbanował",
@@ -116,10 +165,6 @@
     [
       "pies",
       "kot",
-      "słoń",
-      "żyrafa",
-      "tygrys",
-      "wieloryb",
       "Kotochłopiec"
     ],
     [
@@ -198,15 +243,6 @@
       "bar"
     ],
     [
-      "Boże Narodzenie",
-      "Nowy Rok",
-      "Wielkanoc",
-      "Dzień Dziecka",
-      "Dzień Matki",
-      "Dzień Ojca",
-      "Dzień Kobiet"
-    ],
-    [
       "noga",
       "ręka",
       "dłoń",
@@ -230,26 +266,40 @@
       "chmury"
     ],
     [
-      "kot",
-      "pies",
-      "mysz",
-      "krowa",
-      "koń",
-      "owca",
-      "kura"
-    ],
-    [
       "szachy",
       "warcaby",
-      "Wiedźmin 3: Dziki Gon",
       "GTA V",
       "FIFA 21",
       "Cyberpunk 2077",
+      "Wiedźmin 3: Dziki Gon",
       "Wiedźmin 2: Zabójcy Królów",
       "Wiedźmin 1",
-      "ETS2",
-      "ATS",
-      "Fortnite"
+      "Euro Truck Simulator 2",
+      "American Truck Simulator",
+      "Cities Skylines",
+      "Hogwarts Legacy",
+      "The Forest",
+      "The Last of Us",
+      "The Last of Us 2",
+      "Sons of the Forest",
+      "Fortnite",
+      "Minecraft",
+      "CS:GO",
+      "League of Legends",
+      "Valorant",
+      "Overwatch",
+      "Apex Legends",
+      "Call of Duty: Warzone",
+      "Call of Duty: Modern Warfare",
+      "Call of Duty: Black Ops Cold War",
+      "Call of Duty: Black Ops 4",
+      "Call of Duty: Black Ops 3",
+      "Call of Duty: Black Ops 2",
+      "Call of Duty: Black Ops",
+      "Call of Duty: Ghosts",
+      "Call of Duty: Advanced Warfare",
+      "Call of Duty: Infinite Warfare",
+      "Call of Duty: WWII"
     ],
     [
       "Facebook",
@@ -282,20 +332,14 @@
       "HTML",
       "CSS",
       "JavaScript",
+      "TypeScript",
       "PHP",
-      "C#",
-      "C++",
       "Java",
       "Python",
-      "Ruby"
-    ],
-    [
-      "Python",
-      "Ruby",
       "C",
+      "C++",
+      "C#",
       "Go",
-      "Rust",
-      "Swift",
       "Kotlin"
     ],
     [
@@ -305,16 +349,12 @@
       "React",
       "Vue.js 3",
       "Vue.js 2",
-      "Svelte",
-      "Ember",
-      "Backbone",
       "jQuery",
       "Spring",
       "Hibernate",
       "ASP.NET",
       "Django",
       "Laravel",
-      "Ruby on Rails",
       "Angular"
     ],
     [
@@ -328,10 +368,7 @@
       "Redis",
       "Memcached",
       "RabbitMQ",
-      "Kafka",
-      "Elasticsearch",
-      "CouchDB",
-      "Neo4j"
+      "Kafka"
     ],
     [
       "Docker",
@@ -347,7 +384,11 @@
       "DigitalOcean",
       "Linode",
       "Vultr",
-      "OVH"
+      "OVH",
+      "Heroku",
+      "Gradle Groovy",
+      "Gradle Kotlin",
+      "Maven"
     ],
     [
       "iPhone",
