@@ -1,0 +1,366 @@
+{
+  "peoples": [
+    "Eripe14 (Chłopak)",
+    "Mefedron",
+    "Kamicjusz",
+    "EMMA (Chłopak)",
+    "Mike",
+    "Krzysztof Haller",
+    "Martin Sulikowski",
+    "vLucky",
+    "jakubk15"
+  ],
+  "categories": [
+    [
+      "kupił",
+      "sprzedał",
+      "napisał",
+      "przeczytał",
+      "zmienił",
+      "usunął",
+      "dodał"
+    ],
+    [
+      "książkę",
+      "komputer",
+      "samochód",
+      "telefon",
+      "telewizor",
+      "rower",
+      "buty"
+    ],
+    [
+      "sortowanie",
+      "filtrowanie",
+      "mapowanie",
+      "łączenie",
+      "wyszukiwanie",
+      "konwersja",
+      "walidacja"
+    ],
+    [
+      "master (Branch GIT)",
+      "develop (Branch GIT)",
+      "feature/login (Branch GIT)",
+      "feature/register (Branch GIT)",
+      "bugfix/123 (Branch GIT)",
+      "hotfix/456 (Branch GIT)",
+      "release/v1.0 (Branch GIT)"
+    ],
+    [
+      "backend",
+      "frontend",
+      "mobile",
+      "web",
+      "api",
+      "database",
+      "testing"
+    ],
+    [
+      "WannaCry wirus",
+      "ILOVEYOU wirus",
+      "Ransomware",
+      "Trojan",
+      "Worm",
+      "Spyware",
+      "Adware",
+      "Keylogger"
+    ],
+    [
+      "zbanował",
+      "wyrzucił",
+      "zmienił ustawienia",
+      "zmienił hasło",
+      "zmienił uprawnienia",
+      "usunął użytkownika",
+      "utworzył konto"
+    ],
+    [
+      "biegał",
+      "pływał",
+      "grał w piłkę",
+      "malował",
+      "czytał",
+      "programował",
+      "tańczył"
+    ],
+    [
+      "mówi",
+      "pyta",
+      "odpowiada",
+      "krzyczy",
+      "szepcze",
+      "śpiewa"
+    ],
+    [
+      "czerwony",
+      "zielony",
+      "niebieski",
+      "żółty",
+      "fioletowy",
+      "różowy"
+    ],
+    [
+      "jabłko",
+      "banan",
+      "pomarańcza",
+      "kiwi",
+      "winogrona",
+      "gruszka"
+    ],
+    [
+      "pies",
+      "kot",
+      "słoń",
+      "żyrafa",
+      "tygrys",
+      "wieloryb",
+      "Kotochłopiec"
+    ],
+    [
+      "Polska",
+      "Niemcy",
+      "Francja",
+      "Hiszpania",
+      "Włochy",
+      "Stany Zjednoczone",
+      "Warszawa",
+      "Berlin",
+      "Paryż",
+      "Madryt",
+      "Rzym",
+      "Nowy Jork"
+    ],
+    [
+      "kawa",
+      "herbata",
+      "woda",
+      "sok",
+      "cola",
+      "piwo"
+    ],
+    [
+      "piłka nożna",
+      "koszykówka",
+      "siatkówka",
+      "bieganie",
+      "pływanie",
+      "jazda na rowerze"
+    ],
+    [
+      "samochód",
+      "rower",
+      "motocykl",
+      "autobus",
+      "tramwaj",
+      "pociąg",
+      "samolot"
+    ],
+    [
+      "piła",
+      "młotek",
+      "wkrętak",
+      "wiertarka",
+      "szlifierka",
+      "piła do metalu",
+      "piła do drewna"
+    ],
+    [
+      "pizza",
+      "burger",
+      "hot dog",
+      "pierogi",
+      "makaron",
+      "spaghetti",
+      "kotlet schabowy"
+    ],
+    [
+      "rock",
+      "pop",
+      "hip-hop",
+      "rap",
+      "metal",
+      "jazz",
+      "klasyka"
+    ],
+    [
+      "dom",
+      "szkoła",
+      "praca",
+      "sklep",
+      "kino",
+      "restauracja",
+      "bar"
+    ],
+    [
+      "Boże Narodzenie",
+      "Nowy Rok",
+      "Wielkanoc",
+      "Dzień Dziecka",
+      "Dzień Matki",
+      "Dzień Ojca",
+      "Dzień Kobiet"
+    ],
+    [
+      "noga",
+      "ręka",
+      "dłoń",
+      "stopa",
+      "paznokieć",
+      "kciuk"
+    ],
+    [
+      "wiosna",
+      "lato",
+      "jesień",
+      "zima"
+    ],
+    [
+      "deszcz",
+      "śnieg",
+      "wiatr",
+      "burza",
+      "słońce",
+      "mgła",
+      "chmury"
+    ],
+    [
+      "kot",
+      "pies",
+      "mysz",
+      "krowa",
+      "koń",
+      "owca",
+      "kura"
+    ],
+    [
+      "szachy",
+      "warcaby",
+      "Wiedźmin 3: Dziki Gon",
+      "GTA V",
+      "FIFA 21",
+      "Cyberpunk 2077",
+      "Wiedźmin 2: Zabójcy Królów",
+      "Wiedźmin 1",
+      "ETS2",
+      "ATS",
+      "Fortnite"
+    ],
+    [
+      "Facebook",
+      "Twitter",
+      "Instagram",
+      "Reddit",
+      "Twitch",
+      "YouTube",
+      "TikTok"
+    ],
+    [
+      "Apple",
+      "Samsung",
+      "Huawei",
+      "Xiaomi",
+      "Google",
+      "Microsoft",
+      "Amazon"
+    ],
+    [
+      "Windows",
+      "Linux",
+      "MacOS",
+      "Android",
+      "iOS",
+      "Ubuntu",
+      "Debian"
+    ],
+    [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "C#",
+      "C++",
+      "Java",
+      "Python",
+      "Ruby"
+    ],
+    [
+      "Python",
+      "Ruby",
+      "C",
+      "Go",
+      "Rust",
+      "Swift",
+      "Kotlin"
+    ],
+    [
+      "Node.js",
+      "Express",
+      "Flask",
+      "React",
+      "Vue.js 3",
+      "Vue.js 2",
+      "Svelte",
+      "Ember",
+      "Backbone",
+      "jQuery",
+      "Spring",
+      "Hibernate",
+      "ASP.NET",
+      "Django",
+      "Laravel",
+      "Ruby on Rails",
+      "Angular"
+    ],
+    [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "MariaDB",
+      "SQLite",
+      "Oracle",
+      "Cassandra",
+      "Redis",
+      "Memcached",
+      "RabbitMQ",
+      "Kafka",
+      "Elasticsearch",
+      "CouchDB",
+      "Neo4j"
+    ],
+    [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitLab",
+      "GitHub",
+      "Travis CI",
+      "Circle CI",
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "DigitalOcean",
+      "Linode",
+      "Vultr",
+      "OVH"
+    ],
+    [
+      "iPhone",
+      "Samsung Galaxy",
+      "iPad",
+      "MacBook",
+      "Surface",
+      "Xbox",
+      "PlayStation"
+    ],
+    [
+      "polski",
+      "angielski",
+      "niemiecki",
+      "francuski",
+      "hiszpański",
+      "włoski",
+      "rosyjski"
+    ]
+  ]
+}
