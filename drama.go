@@ -121,7 +121,7 @@ func generateDescription(s *discordgo.Session, i *discordgo.InteractionCreate, w
 
 	peopleIndex := rand.Intn(len(words.Peoples))
 
-	prompt := fmt.Sprintf("Proszę wygeneruj dla mnie TYLKO JEDEN opis dramatycznej sytuacji korzystając z wyrazów: %s, pamiętaj aby uwzględnij osobę: %s. Napisz to w jednym krótkim zdaniu.", strings.Join(wordsArr[:], ", "), words.Peoples[peopleIndex])
+	prompt := fmt.Sprintf("Proszę wygeneruj dla mnie TYLKO JEDEN opis dramatycznej sytuacji korzystając z wyrazów: %s, pamiętaj aby uwzględnić osobę: %s. Napisz to w jednym krótkim zdaniu.", strings.Join(wordsArr[:], ", "), words.Peoples[peopleIndex])
 
 	client := openai.NewClient(config.OpenAiKey)
 	resp, err := client.CreateChatCompletion(
