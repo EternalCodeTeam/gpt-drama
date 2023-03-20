@@ -82,15 +82,6 @@
       "na alledrogo"
     ],
     [
-      "sortowanie",
-      "filtrowanie",
-      "mapowanie",
-      "łączenie",
-      "wyszukiwanie",
-      "konwersja",
-      "walidacja"
-    ],
-    [
       "master (Branch GIT)",
       "develop (Branch GIT)",
       "feature/login (Branch GIT)",
@@ -145,22 +136,6 @@
       "krzyczy",
       "szepcze",
       "śpiewa"
-    ],
-    [
-      "czerwony",
-      "zielony",
-      "niebieski",
-      "żółty",
-      "fioletowy",
-      "różowy"
-    ],
-    [
-      "jabłko",
-      "banan",
-      "pomarańcza",
-      "kiwi",
-      "winogrona",
-      "gruszka"
     ],
     [
       "pies",
@@ -241,29 +216,6 @@
       "kino",
       "restauracja",
       "bar"
-    ],
-    [
-      "noga",
-      "ręka",
-      "dłoń",
-      "stopa",
-      "paznokieć",
-      "kciuk"
-    ],
-    [
-      "wiosna",
-      "lato",
-      "jesień",
-      "zima"
-    ],
-    [
-      "deszcz",
-      "śnieg",
-      "wiatr",
-      "burza",
-      "słońce",
-      "mgła",
-      "chmury"
     ],
     [
       "szachy",
