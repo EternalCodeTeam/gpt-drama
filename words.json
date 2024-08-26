@@ -15,7 +15,8 @@
     "Krzysztof Haller",
     "Martin Sulikowski",
     "vLucky",
-    "jakubk15"
+    "jakubk15",
+    "igoyek"
   ],
   "categories": [
     [
@@ -40,7 +41,9 @@
       "Minecraft 1.14.4",
       "Minecraft 1.15.2",
       "Minecraft 1.16.5",
-      "Minecraft 1.19.4"
+      "Minecraft 1.19.4",
+      "Minecraft 1.20.6",
+      "Minecraft 1.21.1"
     ],
     [
       "Visual Studio Code",
@@ -109,6 +112,7 @@
       "Adware",
       "Keylogger",
       "LiteCommands Wirus",
+      "LiteVirus",
       "Lombok"
     ],
     [
@@ -269,7 +273,9 @@
       "Android",
       "iOS",
       "Ubuntu",
-      "Debian"
+      "Debian",
+      "openSUSE",
+      "Fedora"
     ],
     [
       "HTML",
@@ -349,7 +355,11 @@
       "francuski",
       "hiszpański",
       "włoski",
-      "rosyjski"
+      "rosyjski",
+      "ukraiński",
+      "chiński",
+      "japoński",
+      "koreański"
     ]
   ]
 }
