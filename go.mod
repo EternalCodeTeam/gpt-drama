@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/bwmarrin/discordgo v0.28.1
-	github.com/sashabaranov/go-openai v1.29.0
+	github.com/sashabaranov/go-openai v1.37.0
 )
 
 require (
